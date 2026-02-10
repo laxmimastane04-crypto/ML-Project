@@ -1,0 +1,10 @@
+Conclusion:
+
+ *In this project, we applied the complete machine learning workflow to predict house prices using regression
+ techniques. The process included data collection, preprocessing, exploratory data analysis, data cleaning,
+ and splitting the dataset into training and testing sets. Multiple regression models were built and evaluated
+ to compare their performance and accuracy.
+ *Based on the evaluation results, the most effective model was identified, and feature importance analysis
+ helped us understand which house attributes have the greatest impact on price prediction. Overall, this study
+ demonstrates how regression models, combined with proper data preprocessing and analysis, can be effectively
+ used to make accurate and reliable predictions in real-world scenarios.
